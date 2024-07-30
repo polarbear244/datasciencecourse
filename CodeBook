@@ -1,0 +1,84 @@
+# Variable Names
+
+**`subjectid`**: id of the subject
+**`activityid`**: id of activity
+**`activitytype`**: description of activity, e.g. walking, standing
+
+Other variables are features.
+
+**`Feauture description`**
+Variables that contain "accelerometer" were collected from the accelerometer 3-axial raw signals.
+Variables that contain "gyroscope" were collected from the gyroscope 3-axial raw signals.
+Variables that start with "time" denote time variables.
+Variables that start with "frequency" denote frequency variables.
+"x", "y" and "z" at the end denote the axis.
+Variables that contain "mean" denote mean values.
+Variables that contain "std" denote standard deviation values.
+
+**`Full list of features:`**
+timebodyaccelerometermeanx
+timebodyaccelerometermeany
+timebodyaccelerometermeanz
+timebodyaccelerometerstdx
+timebodyaccelerometerstdy
+timebodyaccelerometerstdz
+timegravityaccelerometermeanx
+timegravityaccelerometermeany
+timegravityaccelerometermeanz
+timegravityaccelerometerstdx
+timegravityaccelerometerstdy
+timegravityaccelerometerstdz
+timebodyaccelerometerjerkmeanx
+timebodyaccelerometerjerkmeany
+timebodyaccelerometerjerkmeanz
+timebodyaccelerometerjerkstdx
+timebodyaccelerometerjerkstdy
+timebodyaccelerometerjerkstdz
+timebodygyroscopemeanx"
+timebodygyroscopemeany"
+timebodygyroscopemeanz
+timebodygyroscopestdx
+timebodygyroscopestdy
+timebodygyroscopestdz
+timebodygyroscopejerkmeanx
+timebodygyroscopejerkmeany
+timebodygyroscopejerkmeanz
+timebodygyroscopejerkstdx
+timebodygyroscopejerkstdy
+timebodygyroscopejerkstdz
+timebodyaccelerometermagnitudemean
+timebodyaccelerometermagnitudestd
+timegravityaccelerometermagnitudemean
+timegravityaccelerometermagnitudestd
+timebodyaccelerometerjerkmagnitudemean
+timebodyaccelerometerjerkmagnitudestd
+timebodygyroscopemagnitudemean
+timebodygyroscopemagnitudestd
+timebodygyroscopejerkmagnitudemean
+timebodygyroscopejerkmagnitudestd
+frequencybodyaccelerometermeanx
+frequencybodyaccelerometermeany
+frequencybodyaccelerometermeanz
+frequencybodyaccelerometerstdx
+frequencybodyaccelerometerstdy
+frequencybodyaccelerometerstdz
+frequencybodyaccelerometerjerkmeanx
+frequencybodyaccelerometerjerkmeany
+frequencybodyaccelerometerjerkmeanz
+frequencybodyaccelerometerjerkstdx
+frequencybodyaccelerometerjerkstdy
+frequencybodyaccelerometerjerkstdz
+frequencybodygyroscopemeanx
+frequencybodygyroscopemeany
+frequencybodygyroscopemeanz
+frequencybodygyroscopestdx
+frequencybodygyroscopestdy
+frequencybodygyroscopestdz
+frequencybodyaccelerometermagnitudemean
+frequencybodyaccelerometermagnitudestd
+frequencybodyaccelerometerjerkmagnitudemean
+frequencybodyaccelerometerjerkmagnitudestd
+frequencybodygyroscopemagnitudemean
+frequencybodygyroscopemagnitudestd
+frequencybodygyroscopejerkmagnitudemean
+frequencybodygyroscopejerkmagnitudestd
